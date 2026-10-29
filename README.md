@@ -1,2 +1,2 @@
 # AlphaBot
-Chatbot institucional para atencion a clientes
+Chatbot de atención al cliente basado en reglas con Python y NLTK.
